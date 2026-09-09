@@ -18,6 +18,8 @@ h1,h2,h3,h4{font-family:'Baloo 2',sans-serif;letter-spacing:-.01em}
 nav{background:#fff;box-shadow:0 1px 0 var(--line)}
 nav .wrap{display:flex;align-items:center;justify-content:space-between;height:78px}
 .logo{font-family:'Baloo 2';font-weight:700;font-size:21px;color:var(--ink);text-decoration:none}
+.logo img{display:block;height:44px;width:auto}
+footer .logo img{height:36px}
 .logo span{color:var(--ember)}
 .navlinks{list-style:none;display:flex;align-items:center}
 .navlinks li{margin:0}
