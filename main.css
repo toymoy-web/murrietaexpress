@@ -97,6 +97,9 @@ footer .logo img{height:36px}
 footer{background:#fff;border-top:1px solid var(--line);padding:50px 0;font-size:14px}
 footer .wrap{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px}
 footer h3{color:var(--ink);font-family:'Baloo 2';font-size:16px;margin-bottom:12px}
+.social-links{display:flex;gap:14px;margin-top:16px}
+.social-links a{color:var(--gray);display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;background:var(--soft);transition:color .15s,background .15s}
+.social-links a:hover{color:#fff;background:var(--ember)}
 .mobile-nav{}
 footer a{color:var(--gray);text-decoration:none;display:block;margin-bottom:7px}
 footer a:hover{color:var(--ember)}
